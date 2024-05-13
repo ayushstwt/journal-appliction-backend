@@ -32,4 +32,11 @@ Follow these steps to set up and run the application:
 
    ```bash
    git clone https://github.com/ishrivasayush/journal-appliction-backend.git
+2. Navigate to the project directory:
+
+Use your command line interface (CLI) to navigate to the project directory:
+
+   ```bash
+   cd journal-app
+
 
