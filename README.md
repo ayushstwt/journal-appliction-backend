@@ -31,4 +31,5 @@ Follow these steps to set up and run the application:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/ishrivasayush/journal-appliction-backend.git
+
